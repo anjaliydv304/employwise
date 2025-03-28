@@ -49,7 +49,7 @@ npm run dev
 
 ## Deployment
 
-The application is deployed at: [EmployWise](https://employwise-snowy.vercel.app/login)
+The application is deployed at: [EmployWise](https://employwise-snowy.vercel.app)
 
 ## API
 
